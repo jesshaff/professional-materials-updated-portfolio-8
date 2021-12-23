@@ -180,10 +180,10 @@ width: 50%;
 }
 
 .work-label1 {
-  height: 200px;
-  background: url("../images/horiseon-refactoring.png");
+  height: 400px;
+  background: url("/assets/images/feed-me-food-finder-landing-page.png");
   background-position: center;
-  background-size: 1500px;
+  background-size: 1200px;
   background-repeat: no-repeat;
   border-style: solid;
   border-radius: 5px;
@@ -197,8 +197,8 @@ width: 50%;
 }
 
 .work-label2 {
-  height: 200px;
-  background: url(../images/placholder-image.png);
+  height: 300px;
+  background: url("/assets/images/weather-dashboard.png");
   background-position: center;
   background-size: 550px;
   background-repeat: no-repeat;
@@ -214,8 +214,8 @@ width: 50%;
 }
 
 .work-label3 {
-  height: 200px;
-  background: url(../images/placholder-image.png);
+  height: 300px;
+  background: url("/assets/images/work-day-scheduler-website.png");
   background-position: center;
   background-size: 550px;
   background-repeat: no-repeat;
@@ -231,7 +231,7 @@ width: 50%;
 }
 
 .work-label4 {
-  height: 200px;
+  height: 300px;
   background: url(../images/placholder-image.png);
   background-position: center;
   background-size: 550px;
@@ -248,7 +248,7 @@ width: 50%;
 }
 
 .work-label5 {
-  height: 200px;
+  height: 300px;
   background: url(../images/placholder-image.png);
   background-position: center;
   background-size: 550px;
