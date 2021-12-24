@@ -181,7 +181,7 @@ width: 50%;
 
 .work-label1 {
   height: 400px;
-  background: url("../../assets/images/feed-me-food-finder-landing-page.png");
+  background: url("../images/feed-me-food-finder-landing-page.png");
   background-position: center;
   background-size: 1200px;
   background-repeat: no-repeat;
@@ -198,7 +198,7 @@ width: 50%;
 
 .work-label2 {
   height: 300px;
-  background: url("../../assets/images/weather-dashboard.png");
+  background: url("../images/weather-dashboard.png");
   background-position: center;
   background-size: 550px;
   background-repeat: no-repeat;
@@ -215,7 +215,7 @@ width: 50%;
 
 .work-label3 {
   height: 300px;
-  background: url("../../assets/images/work-day-scheduler-website.png");
+  background: url("../images/work-day-scheduler-website.png");
   background-position: center;
   background-size: 550px;
   background-repeat: no-repeat;
