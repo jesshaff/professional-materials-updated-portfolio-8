@@ -27,4 +27,4 @@
 ### Screenshots
 ## -My Portfolio-
 
-![Webpage After Refactoring](assets/images/my_portfolio_screenshot.png)
+![Jessica Haff - Portfolio](assets/images/Portfolio-Jessica-Haff.gif)
