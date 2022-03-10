@@ -1,6 +1,6 @@
 # professional-portfolio
 
-## 08 Professional Portfolio
+## Professional Portfolio
 
 ### Description:
 #### This is a professional portfolio created for professional use by Jessica Haff. This portfolio will showcase my skills and talents to potential employers.

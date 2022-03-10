@@ -232,7 +232,7 @@ width: 50%;
 
 .work-label4 {
   height: 300px;
-  background: url(../images/placholder-image.png);
+  background: url("../images/employee-tracker-main-menu.png");
   background-position: center;
   background-size: 550px;
   background-repeat: no-repeat;
@@ -249,7 +249,7 @@ width: 50%;
 
 .work-label5 {
   height: 300px;
-  background: url(../images/placholder-image.png);
+  background: url("../images/thrve-app.png");
   background-position: center;
   background-size: 550px;
   background-repeat: no-repeat;
