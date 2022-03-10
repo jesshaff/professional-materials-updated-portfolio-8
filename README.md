@@ -1,4 +1,4 @@
-# professional-materials-updated-portfolio-8
+# professional-portfolio
 
 ## 08 Professional Portfolio
 
@@ -20,9 +20,9 @@
 ```
 
 ### Links
-[Link to Live Webpage](https://jesshaff.github.io/professional-materials-updated-portfolio-8/) 
+[Link to Live Webpage](https://jesshaff.github.io/professional-portfolio/) 
 
-[Link to Github Repository](https://github.com/jesshaff/professional-materials-updated-portfolio-8)
+[Link to Github Repository](https://github.com/jesshaff/professional-portfolio)
 
 ### Screenshots
 ## -My Portfolio-
